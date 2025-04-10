@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=135&color=gradient&customColorList=24&section=header" alt="Header" />
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Bem+Vindo(a)&animation=fadeIn&customColorList=24&section=header" alt="Welcome" />
 </p>
-###
 
 <h2 align="center">Olá, eu sou a Ana Beatriz!👋🏻</h2>
 
